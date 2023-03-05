@@ -1,1 +1,1 @@
-# nginx-with-node
+Showcase of using Nginx as a reverse proxy for Node
